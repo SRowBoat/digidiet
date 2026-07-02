@@ -64,7 +64,7 @@ If an individual user hits an annual score of **30,000 points** (an active *Clou
 > 🚗 **The Bottom Line:** A heavy digital footprint pulls enough raw energy to match driving a traditional compact car 20 km to work every single day for a year.
 >
 > ## Licenses
-This project is licensed under the [Your License] — see the LICENSE file for details.
+This project is licensed under the [MIT] — see the LICENSE file for details.
 
 ### Third-Party Licenses
 * [Tailwind CSS](https://tailwindcss.com/) — MIT License
